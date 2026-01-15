@@ -1,3 +1,3 @@
-- name: Branch Verification
+- name: Check Branch
   debug:
-    msg: "SUCCESS! I am running on the Main branch."
+    msg: "THIS IS THE CYBERARK BRANCH"
